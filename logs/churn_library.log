@@ -1,0 +1,19 @@
+root - INFO - Testing import_data: SUCCESS
+root - INFO - Testing perform_eda: SUCCESS, found churn_plot
+root - INFO - Testing perform_eda: SUCCESS, found Total_Trans_Ct_plot
+root - INFO - Testing perform_eda: SUCCESS, found heatmap
+root - INFO - Testing import_data: SUCCESS
+root - INFO - Testing encoder_helper: SUCCESS - Churn column successfully created and of the right datatype 'int64'
+root - INFO - Testing encoder_helper: SUCCESS - Gender_Churn column successfully created and of the right datatype 'float'
+root - INFO - Testing encoder_helper: SUCCESS - Education_Level_Churn column successfully created and of the right datatype 'float'
+root - INFO - Testing encoder_helper: SUCCESS - Marital_Status_Churn column successfully created and of the right datatype 'float'
+root - INFO - Testing encoder_helper: SUCCESS - Income_Category_Churn column successfully created and of the right datatype 'float'
+root - INFO - Testing encoder_helper: SUCCESS - Card_Category_Churn column successfully created and of the right datatype 'float'
+root - INFO - Testing perform_feature_engineering: SUCCESS - Only the expected columns are remaining in X_train
+root - INFO - Testing perform_feature_engineering: SUCCESS - Only the expected columns are remaining in X_test
+root - INFO - Testing perform_feature_engineering: SUCCESS - y_train column name is Churn as expected
+root - INFO - Testing perform_feature_engineering: SUCCESS - y_test column name is Churn as expected
+root - INFO - Testing perform_feature_engineering: SUCCESS - Train-test split test passed successfully!
+root - INFO - Testing train_models: SUCCESS - Models were created and saved successfully.
+root - INFO - Testing train_models: SUCCESS - Reports were created and saved successfully.
+root - INFO - Testing train_models: SUCCESS - ROC curves were created and saved successfully.
