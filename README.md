@@ -7,7 +7,7 @@ In this project, you will implement your learnings to identify credit card custo
 
 ## Files and data description
 
-├── churn_notebook.ipynb                # Contains the code to be refactored
+├── churn_notebook.ipynb                # Contains the code to be refactored<r>
 ├── churn_library.py                    # Module containing functions to predict Customer Churn
 ├── churn_script_logging_and_tests.py   # Module containing unit tests for churn_library.py
 ├── README.md                           # Provides project overview, and instructions to use the code
