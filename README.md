@@ -13,7 +13,7 @@ In this project, you will implement your learnings to identify credit card custo
 ├── README.md                           # Provides project overview, and instructions to use the code<br>
 ├── data                                # Read this data<br>
 │   └── bank_data.csv<br>
-├── images
+├── images<br>
 │   ├── eda                 # Store EDA plots<br>
 │   └── results             # Store model related plots<br>
 ├── logs				 # Store logs<br>
