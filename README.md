@@ -21,9 +21,8 @@ In this project, you will implement your learnings to identify credit card custo
 
 ## Running Files<br>
 1- clone this repo<br>
-2- install libraries by running "python -m pip install -r requirements_py3.8.txt"<br>
-3- run "python churn_library.py" (performs study)<br>
-4- run "python churn_script_logging_and_tests.py" (runs unit tests for churn_library.py, outcomes are logged in churn_library.log.)
+2- run "python churn_library.py" (performs study)<br>
+3- run "python churn_script_logging_and_tests.py" (runs unit tests for churn_library.py, outcomes are logged in churn_library.log.)
 
 
 
